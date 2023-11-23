@@ -1,0 +1,6 @@
+first_nomber=100
+second_nomber=100
+summa=0
+for elem in renge(first_nombe,second_nomber)
+    summa=summa+elem
+print(summa)
