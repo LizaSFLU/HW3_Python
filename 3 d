@@ -1,0 +1,6 @@
+first_nomber=int(input())
+second_nomber=500
+summa=0
+for elem in renge(first_nombe,second_nomber)
+    summa=summa+elem
+print(summa)
