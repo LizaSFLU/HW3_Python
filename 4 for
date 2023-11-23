@@ -1,0 +1,5 @@
+x=int(input()
+second_miltiplier=1
+for elem in range (x*12//x)
+ print(n*second_miltiplier)
+ second_miltiplier=second_miltiplier+1
